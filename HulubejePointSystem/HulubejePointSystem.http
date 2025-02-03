@@ -1,0 +1,6 @@
+@HulubejePointSystem_HostAddress = http://localhost:5048
+
+GET {{HulubejePointSystem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
